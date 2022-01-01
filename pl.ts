@@ -1327,12 +1327,12 @@ export const PL = {
     "Ręczne źródło nie ma wystarczających zasobów, strategia awaryjna jest aktywna",
   BuildingSourceInvalid:
     "Wybrane źródło jest nieprawidłowe, proszę wybrać prawidłowy kafelek",
-  RandomIsland: "Random Island",
+  RandomIsland: "Losowa wyspa",
   RandomIslandBonus:
-    "<li>The map is randomized every time you start</li><li>Map size, grid type, resource deposits and unique bonuses are all randomly rolled</li><li>There is a 5-minute cool down - the reroll only happens minimum 5 minutes apart</li>",
+    "<li>Mapa jest losowana za każdym razem, gdy zaczynasz</li><li>Rozmiar mapy, rodzaj siatki, depozyty zasobów i unikalne bonusy są losowo generowane</li><li>Jest 5-minutowy czas odnowienia - ponowne losowanie odbywa się tylko w odstępie co najmniej 5 minut</li>",
   RandomIslandBonusDesc:
-    "The unique bonus on Random Island is rerolled every time you start on the map",
-  RandomIslandBonusCapacity: "%{building} has %{multiplier}x capacity",
-  RandomIslandBonusProductivity: "%{building} has %{multiplier}x productivity",
-  RandomIslandBonusResources: "Resource deposits on this map: %{deposits}",
+    "Unikalny bonus na Losowej Wyspie jest wymieniany za każdym razem, gdy zaczynasz na mapie",
+  RandomIslandBonusCapacity: "%{building} ma %{multiplier}x Pojemnośći",
+  RandomIslandBonusProductivity: "%{building} ma %{multiplier}x wydajnośći",
+  RandomIslandBonusResources: "Złoża surowców na tej mapie: %{deposits}",
 };
